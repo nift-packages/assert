@@ -1,0 +1,6 @@
+{
+  "name": "assert",
+  "version": "0.1.0",
+  "entry": "src/assert.f",
+  "description": "Lightweight assertion and matcher helpers for Nift"
+}
